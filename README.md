@@ -11,8 +11,7 @@
 2. 第二周任务：阅读《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch01-00-getting-started.html)》的第四章到第六章。其中第四章为当复习回顾。
 3. 第三周任务：编写一个命令行程序，打印Ascii art艺术字，例如『Conflux祝儿童节快乐！』
 4. 第四周任务：阅读《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch01-00-getting-started.html)》的第7章到第12章。
-
-
+5. 第五周 任务：阅读《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch01-00-getting-started.html)》的第13章到19章。（本周开始入门，欢迎大家冲顶，变成Rust开发者。）
 
 
 
